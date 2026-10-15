@@ -1,0 +1,6 @@
+{
+  "name": "NexusTech - Technical Event Registration Portal",
+  "description": "Comprehensive Technical Event Registration platform for universities and colleges. Discover hackathons, coding contests, robotics, and workshops with seamless online registration and admin event management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
